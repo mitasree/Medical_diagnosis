@@ -69,13 +69,5 @@ streamlit run app.py
 
 This app is a prototype and not approved for clinical use. Always consult certified medical professionals before making any health-related decisions.
 
-📌 Example Use Case
 
-Upload a chest X-ray → Get an AI-generated diagnostic report including potential conditions (e.g., pneumonia, lung opacity) and suggestions for further evaluation.
 
-📧 Contact
-
-For queries or collaboration, feel free to reach out at [your-email@example.com
-].
-
-Let me know if you want a version tailored for academic submission or a GitHub-optimized one with badges and links!
