@@ -47,7 +47,7 @@ API Key Handling: Externalized securely via api_key.py
 
 Clone the repository:
 
-git clone https://github.com/yourusername/vitalimage.git
+
 cd vitalimage
 
 
